@@ -1,2 +1,2 @@
 monty readme file
-Monty repository was created by Olatubosun Ibitoye and Chiamaka Ikwuagwu
+Monty repository was created by Olatubosun Joshua Ibitoye and Chiamaka Pronise Ikwuagwu
