@@ -48,12 +48,13 @@ void mod(stack_t **stack, unsigned int line_number);
 void pchar(stack_t **stack, unsigned int line_number);
 void rotr(stack_t **stack, unsigned int line_number);
 void rotl(stack_t **stack, unsigned int line_number);
+void pstr(stack_t **stack, unsigned int line_number);
 void nop(__attribute__ ((unused))stack_t **stack,
                 __attribute__ ((unused)) unsigned int line_number);
 
 void free_dlistint(stack_t *head);
 void dobfree(stack_t **stack);
 void dobfree2(stack_t **stack);
-int _isalpha(int c);
+int isAlpha(int c);
 
 #endif
